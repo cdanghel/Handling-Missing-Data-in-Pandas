@@ -10,8 +10,4 @@ Welcome to the Handling Missing Data project! This project aims to assess the ex
 4. To access the original course materials and learn more, please refer to the "Python for Machine Learning & Data Science Masterclass". available here (https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 
 ## Project Structure
-1. Initially, we import the libraries pandas, numpy, matplotlib, and seaborn. Then, we upload the CSV file "Ames_outliers_removed.csv" and remove the PID unique identifier since we already have an index.
-
-2. Subsequently, we inspect the dataset for NaN values and proceed to eliminate both features and rows. We have two alternatives: either remove the rows entirely or fill in the missing data points.
-
-3. Certain features in the dataset exhibit missing data in only one or two rows. As per our description in the .txt file, it would be more convenient to fill in these particular missing data points.
+This project consists of two main components. The first part involves evaluating the missing data in each feature and determining the percentage of missing values. In the second part, we will focus on addressing the missing data. We will employ various concepts and methodologies, such as retaining the missing data as is, filling it with appropriate values, or removing it entirely. Throughout this project, we will be working with the Ames dataset, which has already undergone outlier removal.
