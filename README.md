@@ -1,6 +1,6 @@
 # Handling Missing Data in Pandas
 
-Welcome to the Handling Missing Data project! This project aims to assess the existing gaps in data by evaluating what is missing, determining the percentage of missing data for each feature, and exploring strategies to effectively address these gaps.
+This project aims to assess the existing gaps in data by evaluating what is missing, determining the percentage of missing data for each feature, and exploring strategies to effectively address these gaps.
 
 ## Disclaimer
 1. This code is not original and was developed by following instructions from the Udemy course
